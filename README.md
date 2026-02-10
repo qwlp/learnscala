@@ -1,6 +1,6 @@
 # Learn Scala - Tutorial Lessons
 
-A comprehensive Scala tutorial structured into 10 progressive lessons, each with detailed explanations, hands-on exercises, and complete solutions.
+A comprehensive Scala tutorial structured into 13 progressive lessons, each with detailed explanations, hands-on exercises, and complete solutions.
 
 ## Course Overview
 
@@ -112,6 +112,25 @@ Practical topics for real-world programming.
 - File I/O (reading and writing)
 - Resource management
 
+### Lesson 10: Testing
+Learn to write unit tests for your Scala code.
+- JUnit 5 setup and basic assertions
+- Test lifecycle (`@BeforeEach`, `@AfterEach`)
+- Testing functions, collections, and case classes
+- ScalaTest as an alternative framework
+
+### Lesson 11: Case Studies
+Apply your knowledge through comprehensive examples.
+- Data Processing Pipeline (File I/O + Collections)
+- Library Management System (OOP + State)
+- Functional Data Processing (Recursion + Higher-Order Functions)
+
+### Lesson 12: Review and Capstone
+Consolidate your learning with a final project.
+- Complete course review with best practices
+- Student Grade Management System (comprehensive capstone)
+- Combines all concepts: OOP, FP, File I/O, Testing
+
 ## Exercise Difficulty
 
 | Lesson | Easy (Fill-in) | Medium (Write) | Hard (Combine) |
@@ -126,6 +145,9 @@ Practical topics for real-world programming.
 | 07 Functional Programming | 20% | 50% | 30% |
 | 08 Implicits | 40% | 40% | 20% |
 | 09 Misc | 50% | 30% | 20% |
+| 10 Testing | 40% | 40% | 20% |
+| 11 Case Studies | 20% | 40% | 40% |
+| 12 Review | 10% | 30% | 60% |
 
 ## Recommended Learning Path
 
